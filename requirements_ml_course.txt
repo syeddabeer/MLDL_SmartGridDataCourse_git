@@ -51,9 +51,9 @@ kiwisolver==1.1.0
 llvmlite==0.34.0
 locket==0.2.1
 LunarCalendar==0.0.9
-Markdown 
+Markdown==3.1.1
 MarkupSafe==1.1.1
-matplotlib 
+matplotlib==3.1.0 
 mkl-service
 multidict 
 multipledispatch==0.6.0
