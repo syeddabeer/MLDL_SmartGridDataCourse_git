@@ -23,7 +23,6 @@ dask-glm
 dask-ml 
 distributed
 ephem 
-fastparquet 
 filelock
 gast
 google-auth 
