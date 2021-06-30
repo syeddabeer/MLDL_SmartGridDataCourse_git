@@ -85,7 +85,7 @@ statsmodels
 tblib 
 tensorboard 
 tensorboard-plugin-wit
-tensorflow
+tensorflow==2.1.0
 tensorflow-estimator
 termcolor
 threadpoolctl 
