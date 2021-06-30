@@ -47,7 +47,7 @@ jsonschema==3.2.0
 keras==2.2.4
 keras-applications==1.0.8
 Keras-Preprocessing==1.1.0
-kiwisolver=1.1.0
+kiwisolver==1.1.0
 llvmlite==0.34.0
 locket==0.2.1
 LunarCalendar==0.0.9
