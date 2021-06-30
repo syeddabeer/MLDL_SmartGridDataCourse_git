@@ -44,7 +44,7 @@ importlib-metadata
 Jinja2 
 joblib 
 jsonschema==3.2.0
-Keras 
+keras==2.4.3 
 Keras-Preprocessing==1.1.0
 kiwisolver  
 llvmlite==0.34.0
